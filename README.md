@@ -56,3 +56,7 @@ I had started doing this activity, and then tried to backtrack by removing the f
 
 Also, I had tried opening a file similar to the cpython-29.pyc file that's here and it disabled my google shell and I had to reset it.
 ![Screen Shot 2023-11-02 at 22 25 41](https://github.com/chebbin/cloud_db_mgmt_pooling_migrations/assets/141374142/cfa5d0c9-ed01-43bc-acbf-90616bcd21b8)
+
+
+Cannot push my work to github. I renewed my token recently, could this have something to do with it?
+![Screen Shot 2023-11-02 at 22 34 23](https://github.com/chebbin/cloud_db_mgmt_pooling_migrations/assets/141374142/867d19b5-d402-488e-a918-bba7159863a9)
