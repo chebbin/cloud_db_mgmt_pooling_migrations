@@ -40,7 +40,7 @@ class MedicalRecord(Base):
 
 ### Part 2 - initial sqlalchemy-engine to connect to db:
 
-engine = create_engine("mysql+pymysql://hants:sbu-admin-2023@hants-migrations-test.mysql.database.azure.com/hants",
+engine = create_engine("mysql+pymysql://chevi:ahi-2023@hw4c.mysql.database.azure.com/chevi",
                          connect_args={'ssl': {'ssl-mode': 'preferred'}},
                          )
 
