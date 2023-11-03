@@ -40,7 +40,7 @@ class MedicalRecord(Base):
 
 ### Part 2 - initial sqlalchemy-engine to connect to db:
 
-engine = create_engine("mysql+mysqlconnector://hants-test:yourpassword@34.139.18.69/hants")
+engine = create_engine("mysql+mysqlconnector://root:ahi-2023@34.172.105.163/chevi")
 
 ## Test connection
 
