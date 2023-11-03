@@ -45,8 +45,14 @@ Azure Database Schema Structure with two tables (and added alembic version)
 GCP Database Schema structure with only one table 
 ![Screen Shot 2023-11-02 at 14 13 53](https://github.com/chebbin/cloud_db_mgmt_pooling_migrations/assets/141374142/7c57aef5-b961-42d5-b886-706cd1dd48ac)
 
-# 3. SQLAlchemy and Flask Intgration
+# 3. SQLAlchemy and Flask Integration
 Will do this another time
 
+# 4. Database Migrations with Alembic
+![Screen Shot 2023-11-02 at 22 20 02](https://github.com/chebbin/cloud_db_mgmt_pooling_migrations/assets/141374142/b6eb4fc1-806f-4adb-aef3-555da7db43c8)
+
+I had started doing this activity, and then tried to backtrack by removing the files. I am unable to recover them. This error message mentions the code file that had been deleted which was 112abc4597c and I don't know how to retrieve it. Deleting the files and recloning from github was not able to correct it. 
 
 
+Also, I had tried opening a file similar to the cpython-29.pyc file that's here and it disabled my google shell and I had to reset it.
+![Screen Shot 2023-11-02 at 22 25 41](https://github.com/chebbin/cloud_db_mgmt_pooling_migrations/assets/141374142/cfa5d0c9-ed01-43bc-acbf-90616bcd21b8)
